@@ -7,8 +7,8 @@
 
     `{@cssloader file="/assets/css/core.min.css,/assets/css/job_search.css,/assets/css/jquery.autocomplete.css,/assets/css/alert_new.css"}{/cssloader}`
  
-*代码：
+代码
 ![1](http://assets.5isolar.com/img/dust/1.jpg)
 
-*浏览器输出
+浏览器输出
 ![2](http://assets.5isolar.com/img/dust/2.jpg)
